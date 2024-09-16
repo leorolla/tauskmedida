@@ -1,0 +1,10 @@
+% Arquivo simbolos.ist
+% Para ser usado como arquivo de estilo para o indice de simbolos de NotasMedida.tex:
+% makeindex -s simbolos.ist A
+%
+% Daniel Victor Tausk 18/01/2006
+%
+
+delim_0 "\\dotfill "
+delim_1 "\\dotfill "
+delim_2 "\\dotfill "
